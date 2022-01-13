@@ -1,10 +1,20 @@
 # Getting Started with Create React App
 
+#This application is made up for writing daily Todo_list in order to remember things. 
+
+### node.js
+
+In order to run this application in your system there must be node js installed in your system.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install react-router-dom`
+
+Runs this command in the development mode for installing react-router-dom before running this application.\
 
 ### `npm start`
 
