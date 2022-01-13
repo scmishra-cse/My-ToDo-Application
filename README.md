@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#This application is made up for writing daily Todo_list in order to remember things. 
+# This application is made up for writing daily Todo_list in order to remember things. 
 
 ### node.js
 
